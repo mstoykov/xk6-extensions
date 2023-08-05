@@ -1,0 +1,3 @@
+Change k6 dependency to v0.45.1
+
+A transitive dependency was removed. v0.45.0 was patched to address the issue. See grafana/k6#3252.
