@@ -1,0 +1,8 @@
+Change to using sobek instead of goja
+
+We are moving to a fork of goja under grafana org called sobek.
+
+More info in:
+- https://github.com/grafana/k6/issues/3772
+- https://github.com/grafana/k6/issues/3773
+
